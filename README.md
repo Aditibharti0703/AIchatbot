@@ -398,4 +398,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ using .NET 8.0 and Clean Architecture principles** 
+***Built with ❤️ using .NET 8.0 and Clean Architecture principles*** 
